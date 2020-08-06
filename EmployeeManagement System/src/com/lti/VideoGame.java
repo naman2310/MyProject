@@ -1,6 +1,8 @@
 package com.lti;
 
 public class VideoGame {
-	public void mario() {}
+	public void mario() {
+		System.out.println("working");
+	}
 
 }
